@@ -47,15 +47,15 @@
 
     <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
     <!-- Short description has to have less than 80 chars -->
-    <string name="app_short_description">A clean music player with a customizable widget.</string>
+    <string name="app_short_description">Ein sauberer Musik Player mit anpassbarem Widget.</string>
     <string name="app_long_description">
-        A music player easily controllable from the status bar, home screen widget or by hardware buttons on your headset. You can sort the tracks by the Title or Artist, as well as change the Equalizer. Does not yet support filtering by artist or album, stay tuned! The Phone Status permission is required for pausing the song once there is an incoming call.
+        Ein Musik Player, der einfach über die Statusleiste, das Homescreen-Widget oder die Knöpfe deines Headsets kontrollierbar ist. Er kann Lieder sowohl nach Titel, als auch nach Künstler sortieren, sowie den Equalizer ändern. Filterung nach Album ist momentan noch nicht möglich, sei gespannt! Die Telefon-Status-Berechtigung wird benötigt, um die Musik bei einem einkommenden Anruf zu pausieren.
 
-        It contains a widget with customizable text color, alpha and the color of the background.
+        Er beinhaltet ein Widget mit personalisierbarer Text- und Hintergrundfarbe.
 
-        Contains no ads or unnecessary permissions. It is fully opensource, provides customizable colors.
+        Beinhaltet weder Werbung, noch unnötige Berechtigungen. Er ist komplett Open Source und enthält anpassbare Farben.
 
-        This app is just one piece of a bigger series of apps. You can find the rest of them at http://www.simplemobiletools.com
+        Diese App ist Teil einer Serie an Apps. Du kannst sie finden auf Http://www.simplemobiletools.com
     </string>
 
     <!--
