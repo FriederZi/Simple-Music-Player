@@ -24,23 +24,23 @@
 
     <!-- Playlists -->
     <string name="add_file_to_playlist">Füge Datei zu Playlist hinzu</string>
-    <string name="add_folder_to_playlist">Add folder to playlist</string>
-    <string name="manage_playlists">Manage playlists</string>
-    <string name="playlists">Playlists</string>
-    <string name="create_playlist">Create playlist</string>
-    <string name="rename_playlist">Rename playlist</string>
-    <string name="playlist_name_exists">A playlist with that name already exists</string>
-    <string name="remove_playlist">Remove playlist</string>
-    <string name="remove_playlist_description">This will only remove the selected playlists, not the actual files.</string>
-    <string name="remove_playlist_description_placeholder">This will only remove playlist \"%s\", not the actual files.</string>
+    <string name="add_folder_to_playlist">Füge Ordner zu Playlist hinzu</string>
+    <string name="manage_playlists">Playlisten verwalten</string>
+    <string name="playlists">Playlisten</string>
+    <string name="create_playlist">Playlist erstellen</string>
+    <string name="rename_playlist">Playlist umbenennen</string>
+    <string name="playlist_name_exists">Eine Playlist mit diesem Namen existiert bereits</string>
+    <string name="remove_playlist">Playlist entfernen</string>
+    <string name="remove_playlist_description">Dies wird nur die ausgewählte Playlist entfernen, nicht die tatsächlichen Dateien.</string>
+    <string name="remove_playlist_description_placeholder">Dies wird nur Playlist \"%s\" entfernen, nicht die tatsächlichen Dateien.</string>
     <string name="remove_from_playlist">Remove from playlist</string>
-    <string name="remove_from_playlist_description">This will only remove the items from playlist \"%s\", the actual files will not be deleted.</string>
-    <string name="delete_the_files_too">Delete the files too</string>
-    <string name="open_playlist">Open playlist</string>
-    <string name="initial_playlist">Initial playlist</string>
-    <string name="initial_playlist_cannot_be_deleted">The initial playlist cannot be deleted</string>
-    <string name="empty_playlist">Current playlist is empty</string>
-    <string name="fetching_songs">Fetching songs…</string>
+    <string name="remove_from_playlist_description">Dies wird nur die Items von Playlist \"%s\" entfernen, die tatsächlichen Dateien werden nicht gelöscht.</string>
+    <string name="delete_the_files_too">Die Dateien auch löschen</string>
+    <string name="open_playlist">Playlist öffnen</string>
+    <string name="initial_playlist">Ursprüngliche Playlist</string>
+    <string name="initial_playlist_cannot_be_deleted">Die Ursprüngliche Playlist kann nicht gelöscht werden</string>
+    <string name="empty_playlist">Aktuelle Playlist ist leer</string>
+    <string name="fetching_songs">Lieder werden abgerufen...</string>
 
     <!-- Settings -->
     <string name="equalizer">Equalizer</string>
